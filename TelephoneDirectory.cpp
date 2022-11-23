@@ -1,8 +1,9 @@
 //C++ program to create telephone directory
-#include<iostream.h>
-#include<fstream.h>
-#include<string.h>
-#include<conio.h>
+#include<iostream>
+#include<fstream>
+#include<string>
+#include<conio>
+using namespace std;
 struct telerec
 {
 char tname[50];
